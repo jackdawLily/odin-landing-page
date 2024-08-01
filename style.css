@@ -2,3 +2,12 @@
     display: flex;
     justify-content: space-around;
 }
+
+ul {
+    list-style: none;
+  }
+
+a {
+    text-decoration: none;
+    color: #F9FAF8;
+  }
