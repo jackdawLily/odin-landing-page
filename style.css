@@ -45,3 +45,9 @@ h3,
     color: #F9FAF8;
     padding: 8px 32px;
   }
+
+  .image {
+    width: 500px;
+    height: 250px;
+    background-color: darkgray;
+  }
