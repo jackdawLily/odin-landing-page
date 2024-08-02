@@ -9,22 +9,19 @@ body {
     flex-direction: column;
 }
 
-.header {
+.header,
+.container {
     display: flex;
     justify-content: space-between;
+    background-color: #1F2937;
+}
+
+.header {
     font-weight: lighter;
     padding: 12px 200px;
 }
 
-.header,
 .container {
-    background-color: #1F2937;
-
-}
-
-.container {
-    display: flex;
-    justify-content: space-between;
     padding: 100px 200px;
 }
 
