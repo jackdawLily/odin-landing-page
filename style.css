@@ -96,3 +96,11 @@ h2 {
     font-size: 36px;
     font-weight: bolder;
   }
+
+.illu {
+    border: solid hsl(217, 91%, 59%);
+    border-radius: 16px;
+    border-width: 4px;
+    width: 160px;
+    height: 160px;
+  }
