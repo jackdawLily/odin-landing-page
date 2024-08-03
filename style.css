@@ -104,3 +104,16 @@ h2 {
     width: 160px;
     height: 160px;
   }
+
+.illu-row {
+    display: flex;
+    gap: 50px;
+    padding: 45px 0;
+  }
+
+figcaption {
+    color: grey;
+    font-size: 18px;
+    text-align: center;
+    padding-top: 8px;
+  }
