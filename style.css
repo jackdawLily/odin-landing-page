@@ -25,6 +25,13 @@ body {
     padding: 100px 200px;
 }
 
+.header-logo {
+    font-size: 24px;
+    color: #F9FAF8;
+    font-weight: 900;
+
+}
+
 .hero {
     display: flex;
     flex-direction: column;
@@ -53,13 +60,13 @@ h1 {
   }
 
 h3,
-  .image {
+.image {
     color: #E5E7EB;
     font-size: 18px;
     font-weight: lighter;
   }
 
-  button {
+button {
     border: none;
     border-radius: 5px;
     background: #3882F6;
@@ -67,7 +74,7 @@ h3,
     padding: 8px 32px;
   }
 
-  .image {
+.image {
     width: 524px;
     height: 242px;
     background-color: darkgray;
@@ -76,7 +83,7 @@ h3,
     line-height: 250px; 
   }
 
-  .information {
+.information {
     display: flex;
     flex-direction: column;
     justify-content: center;
